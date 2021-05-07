@@ -1,0 +1,36 @@
+{
+  "name": "amoled-black",
+  "displayName": "AMOLED Black Theme",
+  "description": "another dark theme",
+  "version": "0.0.1",
+  "author": {
+    "name": "Erfan Khadivar",
+    "url": "https://github.com/rendinjast"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rendinjast/amoled-black.git"
+  },
+  "publisher": "rendinjast",
+  "icon": "img/logo.png",
+  "engines": {
+    "vscode": "^1.56.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "AMOLED Black",
+        "uiTheme": "vs-dark",
+        "path": "./themes/amoled-dark-color-theme.json"
+      },
+      {
+        "label": "AMOLED Black Shiny",
+        "uiTheme": "vs-dark",
+        "path": "./themes/amoled-dark-shiny-color-theme.json"
+      }
+    ]
+  }
+}
