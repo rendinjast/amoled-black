@@ -4,7 +4,7 @@
 </bold>
 </p>
 
-![screenshot](img/screenshot.png)
+![screenshot](https://raw.githubusercontent.com/rendinjast/amoled-black/main/img/screenshot.png)
   
 ## Installation
 * Go to Extensions section
