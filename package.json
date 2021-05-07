@@ -12,7 +12,7 @@
     "url": "https://github.com/rendinjast/amoled-black.git"
   },
   "publisher": "rendinjast",
-  "icon": "https://github.com/rendinjast/amoled-black/blob/main/img/logo.jpg",
+  "icon": "img/logo.jpg",
   "engines": {
     "vscode": "^1.56.0"
   },
